@@ -17,12 +17,12 @@
     "devDependencies": {},
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/yashumnrs/get.git"
+      "url": "git+https://github.com/ranjithmnrs/get.git"
     },
     "bugs": {
-      "url": "https://github.com/yashumnrs/get/issues"
+      "url": "https://github.com/ranjithmnrs/get/issues"
     },
-    "homepage": "https://github.com/yashumnrs/get#readme",
+    "homepage": "https://github.com/ranjithmnrs/get#readme",
     "description": ""
   }
   
